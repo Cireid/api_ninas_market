@@ -1,1 +1,0 @@
-web: java -jar target/ninas_market-0.0.1-SNAPSHOT.jar
